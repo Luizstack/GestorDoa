@@ -31,8 +31,8 @@ gestordoa/
 1. Clone o repositório e entre na pasta:
 
    ```bash
-   git clone https://github.com/SEU-USUARIO/gestordoa.git
-   cd gestordoa
+   git clone https://github.com/Luizstack/GestorDoa.git
+   cd GestorDoa
    ```
 
 2. Instale as dependências:
